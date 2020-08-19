@@ -35,3 +35,4 @@ for i in range(len(list_random)):
         else:
             pass
 print(c)
+print("hello from your other pc")
