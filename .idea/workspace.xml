@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a68e4df-9777-4c1d-b8a1-caed73cebfdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10.list_overlap_comprehensions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.guessing_game_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.guessing_game_one.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.10.list_overlap_comprehensions">
+  <component name="RunManager" selected="Python.test">
     <configuration name="07.list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice_python_org" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.10.list_overlap_comprehensions" />
         <item itemvalue="Python.09.guessing_game_one" />
         <item itemvalue="Python.08.rock_paper_scissors" />
         <item itemvalue="Python.07.list_comprehensions" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +160,14 @@
       <option name="presentableId" value="Default" />
       <updated>1591005522785</updated>
     </task>
+    <task id="LOCAL-00001" summary="this commit is from pycharm, exercises 10 list overlap comprehensions">
+      <created>1594303670253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594303670253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,39 +183,47 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this commit is from pycharm, exercises 10 list overlap comprehensions" />
+    <option name="LAST_COMMIT_MESSAGE" value="this commit is from pycharm, exercises 10 list overlap comprehensions" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="607" y="121" width="1284" height="811" key="CommitChangelistDialog2" timestamp="1594303663391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="121" width="1284" height="811" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303663391" />
-    <state width="1882" height="279" key="GridCell.Tab.0.bottom" timestamp="1594303234500">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1594992150180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591275170189" />
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594992150180" />
     <state width="913" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1591100849653" />
-    <state width="1882" height="279" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303234500" />
+    <state width="1882" height="279" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303728286" />
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591984512158" />
-    <state width="1882" height="279" key="GridCell.Tab.0.center" timestamp="1594303234500">
+    <state width="1893" height="279" key="GridCell.Tab.0.bottom/3840.0.1280.693/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594919291523" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1594992150180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591275170189" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594992150180" />
     <state width="913" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1591100849653" />
-    <state width="1882" height="279" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303234500" />
+    <state width="1882" height="279" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303728286" />
     <state width="1899" height="348" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591984512158" />
-    <state width="1882" height="279" key="GridCell.Tab.0.left" timestamp="1594303234500">
+    <state width="1893" height="279" key="GridCell.Tab.0.center/3840.0.1280.693/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594919291523" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1594992150180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591275170189" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594992150180" />
     <state width="913" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1591100849653" />
-    <state width="1882" height="279" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303234500" />
+    <state width="1882" height="279" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303728286" />
     <state width="1899" height="348" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591984512158" />
-    <state width="1882" height="279" key="GridCell.Tab.0.right" timestamp="1594303234500">
+    <state width="1893" height="279" key="GridCell.Tab.0.left/3840.0.1280.693/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594919291523" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1594992150180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1591275170189" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594992150180" />
     <state width="913" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1591100849653" />
-    <state width="1882" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303234500" />
+    <state width="1882" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594303728286" />
     <state width="1899" height="348" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591984512158" />
+    <state width="1893" height="279" key="GridCell.Tab.0.right/3840.0.1280.693/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594919291523" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1591984512159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -233,11 +248,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594024799369" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594300209956">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595176454887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1594300209956" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594193726364" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595176454887" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593960663512" />
   </component>
 </project>

@@ -20,4 +20,18 @@
 #get random list and print even numbers
 
 
-from bs4 import BeautifulSoup
+
+
+list_random = [1,2,3,4,5,6]
+list_randomish = [4,2,3,10,11,213,4234,354356]
+c = []
+
+
+
+for i in range(len(list_random)):
+    for j in range(len(list_randomish)):
+        if list_random[i] == list_randomish[j]:
+            c.append(list_random[i])
+        else:
+            pass
+print(c)
